@@ -17,4 +17,10 @@ from quantrocket.codeload import clone
 clone("quickstart")
 ```
 
-## [Browse in GitHub](QuickStart.ipynb)
+## Browse here
+
+Start at: [QuickStart.ipynb](QuickStart.ipynb)
+
+***
+
+Find more code in QuantRocket's [Code Library](https://www.quantrocket.com/code/)
