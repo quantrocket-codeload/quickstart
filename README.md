@@ -17,9 +17,9 @@ from quantrocket.codeload import clone
 clone("quickstart")
 ```
 
-## Browse here
+## Browse in GitHub
 
-Start at: [QuickStart.ipynb](QuickStart.ipynb)
+Start here: [QuickStart.ipynb](QuickStart.ipynb)
 
 ***
 
