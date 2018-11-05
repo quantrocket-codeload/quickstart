@@ -23,4 +23,4 @@ Start here: [QuickStart.ipynb](QuickStart.ipynb)
 
 ***
 
-Find more code in QuantRocket's [Code Library](https://www.quantrocket.com/code/)
+Find more code in QuantRocket's [Codeload Library](https://www.quantrocket.com/code/)
