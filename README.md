@@ -19,8 +19,8 @@ clone("quickstart")
 
 ## Browse in GitHub
 
-Start here: [QuickStart.ipynb](QuickStart.ipynb)
+Start here: [QuickStart.ipynb](.quantrocket/quickstart/QuickStart.ipynb)
 
 ***
 
-Find more code in QuantRocket's [Codeload Library](https://www.quantrocket.com/code/)
+Find more code in QuantRocket's [Code Library](https://www.quantrocket.com/code/)
